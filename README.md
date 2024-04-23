@@ -1,9 +1,11 @@
 # robofriends
-Tutorial for React
-To run the project:
+
+# The react project. 
 
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
 
-*visist https://zerotomastery.io/ for more*
+
+click [here](https://davidirankunda.github.io/robofreinds/)
+
